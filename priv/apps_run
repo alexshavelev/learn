@@ -1,0 +1,10 @@
+++ для erlang 17+
+Порядок запуска ->
+kernel,
+stdlib,
+sasl,
+asn1,
+syntax_tools,
+crypto,
+public_key,
+compiler

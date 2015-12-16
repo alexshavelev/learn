@@ -1,0 +1,18 @@
+{application, learn,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+		kernel,
+		stdlib,
+		sasl,
+		asn1,
+		syntax_tools,
+		crypto,
+		public_key,
+		compiler
+                 ]},
+  {mod, { learn_app, []}},
+  {env, []}
+ ]}.

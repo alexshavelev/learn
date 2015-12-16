@@ -1,0 +1,26 @@
+{application, learn,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+		kernel,
+		stdlib,
+		sasl,
+		asn1,
+		syntax_tools,
+		crypto,
+		public_key,
+    ssl,
+    inets,
+		compiler,
+    goldrush,
+    lager,
+    cowlib,
+    ranch,
+    cowboy,
+    poolboy
+                 ]},
+  {mod, { learn_app, []}},
+  {env, []}
+ ]}.

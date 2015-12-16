@@ -1,0 +1,5 @@
+2015-01-22 17:30:49.509 [info] <0.7.0> Application lager started on node 'dev@user-ThinkPad-Edge-E540'
+2015-01-22 17:30:49.509 [info] <0.7.0> Application cowlib started on node 'dev@user-ThinkPad-Edge-E540'
+2015-01-22 17:30:49.524 [info] <0.7.0> Application ranch started on node 'dev@user-ThinkPad-Edge-E540'
+2015-01-22 17:30:49.528 [info] <0.7.0> Application cowboy started on node 'dev@user-ThinkPad-Edge-E540'
+2015-01-22 17:30:49.552 [info] <0.7.0> Application learn started on node 'dev@user-ThinkPad-Edge-E540'
